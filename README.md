@@ -1,2 +1,2 @@
-# Ming0000
+# Ming's datapack
 Some datapacks for mc.
